@@ -1,3 +1,3 @@
 A second collaborative project
-On simple shell 
-authors are godfrey otieno & ruth arimuk
+On 0x16. C - Simple Shell
+Authors are Godfrey Otieno & Ruth Arimuk
